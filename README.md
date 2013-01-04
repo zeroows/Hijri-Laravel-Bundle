@@ -22,6 +22,24 @@ Or manually start:
 Bundle::start('hijri');
 ```
 
+#### To get the Arabic translation for Hijri date
+Set the "language" in application\config\application.php to "ar"
+
+```php
+	/*
+	|--------------------------------------------------------------------------
+	| Default Application Language
+	|--------------------------------------------------------------------------
+	|
+	| The default language of your application. This language will be used by
+	| Lang library as the default language when doing string localization.
+	|
+	*/
+
+	'language' => 'en',
+
+```
+
 ## Usage/Examples
 
 
