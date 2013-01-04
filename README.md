@@ -36,7 +36,7 @@ Set the "language" in application\config\application.php to "ar"
 	|
 	*/
 
-	'language' => 'en',
+	'language' => 'ar',
 
 ```
 
